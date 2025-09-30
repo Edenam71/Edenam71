@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eden Am Shalem
 
-I'm a Computer Science graduate from the Technion, passionate about building clean, scalable software — from deep learning models to full-stack web platforms.  
+I'm a Computer Science graduate from the Technion, passionate about building clean, scalable software: from deep learning models to full-stack web platforms.  
 Currently seeking opportunities in software development.
 
 ---
@@ -32,6 +32,7 @@ Built with a focus on user authentication, role-based access, and modular archit
   - User-specific actions (delete/edit only your own posts)  
 - 📂 Modular, scalable, and includes hooks like `useAuthContext`, `useHouseContext`, and `useLogin`
 - 🧪 Custom error handling, form validation, and UI feedback via React
+- Note- this project is not finished yet
 
 > 💡 This project highlights a strong grasp of full-stack development, secure API design, and modern React architecture.
 
@@ -51,7 +52,7 @@ Explored self-supervised, supervised, and contrastive learning on **MNIST** and 
 📧 Email: edenam52@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/eden-amshalem/
 
-Let's connect — I’m always up for collaborating, solving problems, or just talking shop ☕
+Let's connect! I’m always up for collaborating, solving problems, or just talking shop ☕
 
 ---
 
